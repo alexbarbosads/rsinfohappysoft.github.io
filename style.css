@@ -6615,7 +6615,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .top-v5 {
     background-color: #0E0A31;
-    background-image: url(https://via.placeholder.com/1920x719.png);
+    background-image: url('images/body.jpg');
     background-position: bottom center;
     background-repeat: no-repeat;
     padding: 265px 0 170px 0;
